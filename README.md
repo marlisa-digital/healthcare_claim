@@ -101,7 +101,7 @@ healthcare_claim/
 │   ├── rar.png
 │   ├── cre.png
 │   └── chase.png
-└── dataset/
+└── Data/
     └── claims_data.csv
 ```
 
