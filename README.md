@@ -41,7 +41,7 @@ The dashboard consists of **4 pages**, each serving a different stakeholder need
 ### 1. Executive Overview
 High-level KPIs and root cause breakdown — designed for leadership to see the big picture at a glance.
 
-![Overview](screenshots/overview.png)
+![Overview](screenshot/overview.png)
 
 **Key metrics:**
 - Total Claims: **500**
@@ -54,7 +54,7 @@ High-level KPIs and root cause breakdown — designed for leadership to see the 
 ### 2. Revenue at Risk — Providers & Plans
 Breaks down blocked claims and cash by hospital provider and insurance plan type.
 
-![Revenue at Risk](screenshots/rar.png)
+![Revenue at Risk](screenshot/rar.png)
 
 ---
 
@@ -68,7 +68,7 @@ Shows which corporate clients (Bank A, Bank B, Bank C, Tech D) are contributing 
 ### 4. Claims to Chase Today
 Actionable table sorted by days pending — gives ops teams a daily priority list to work from.
 
-![Claims to Chase](screenshots/chase.png)
+![Claims to Chase](screenshot/chase.png)
 
 ---
 
@@ -96,7 +96,7 @@ Actionable table sorted by days pending — gives ops teams a daily priority lis
 ```
 healthcare_claim/
 ├── README.md
-├── screenshots/
+├── screenshot/
 │   ├── overview.png
 │   ├── rar.png
 │   ├── cre.png
